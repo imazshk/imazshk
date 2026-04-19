@@ -6,7 +6,7 @@
 📊 Skilled in creating dashboards with Power BI, Tableau, and other visualization tools<br/> 
 💡 Love exploring data to uncover insights and drive decisions<br/>
 
-Wanna Connect:
+Wanna Connect:<br/> 
 📧 Email: imzee.shk@gmail.com<br/> 
 📞 Phone: +91 8452991546<br/> 
 💬 WhatsApp: +91 84529991546
