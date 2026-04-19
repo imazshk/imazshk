@@ -1,7 +1,7 @@
 ## Heyyyy, I'm Imaz Ahmed Shaikh✨
 
 🤖 Artificial Intelligence & Data Science student<br/> 
-💼 Currently working at Animeta Brandstar<br/> 
+💼 Currently working as an AI Engineer at Animeta Brandstar<br/> 
 🧩 Passionate about solving problems and building innovative solutions<br/> 
 📊 Skilled in creating dashboards with Power BI, Tableau, and other visualization tools<br/> 
 💡 Love exploring data to uncover insights and drive decisions<br/>
